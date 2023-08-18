@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Çalışma dosyaları
+.DS_Store
+Thumbs.db
+
+# Derleme ve geçici dosyalar
+*.log
+*.bak
+*.tmp
+
+# Yerel yapılandırma dosyaları
+config.js
+
+# Derlenmiş ve sıkıştırılmış dosyalar
+*.min.css
+*.min.js
+
+# IDE veya metin düzenleyiciye özgü dosyalar
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Sistem tarafından oluşturulan dosyalar
+ehthumbs.db
+Icon?
+._*
+*.stackdump
+
+# Yedeklenmiş dosyalar
+*~
+
+# Log dosyaları
+log.txt
+
+# img
+*jpg
+*png
+img/
